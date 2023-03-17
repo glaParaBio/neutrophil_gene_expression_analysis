@@ -1,0 +1,2 @@
+species	fasta	gff	max_intron_len	ensembl_version
+Homo_sapiens.GRCh38.105	ftp://ftp.ensembl.org/pub/release-105/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna_sm.primary_assembly.fa.gz	ftp://ftp.ensembl.org/pub/release-105/gtf/homo_sapiens/Homo_sapiens.GRCh38.105.gtf.gz	500000	105

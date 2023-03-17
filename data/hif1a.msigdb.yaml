@@ -1,0 +1,48 @@
+# On 02/12/2022 downloaded as json and converted to yaml
+---
+SEMENZA_HIF1_TARGETS:
+  systematicName: M12299
+  pmid: '11516994'
+  exactSource: Table 1
+  geneSymbols:
+  - ADM
+  - ADRA1B
+  - AK3
+  - ALDOA
+  - ALDOC
+  - BNIP3
+  - CA9
+  - CDKN1A
+  - CITED2
+  - CP
+  - EDN1
+  - ENO1
+  - EPO
+  - FLT1
+  - GAPDH
+  - HK1
+  - HK2
+  - HMOX1
+  - IGF2
+  - IGFBP1
+  - IGFBP2
+  - IGFBP3
+  - LDHA
+  - NOS2
+  - P4HA2
+  - PFKL
+  - PGK1
+  - PKM
+  - SERPINE1
+  - SLC2A1
+  - SLC2A3
+  - TF
+  - TFRC
+  - TGFB3
+  - TPI1
+  - VEGFA
+  msigdbURL: https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/SEMENZA_HIF1_TARGETS
+  externalDetailsURL: []
+  filteredBySimilarity: []
+  externalNamesForSimilarTerms: []
+  collection: C2:CGP

@@ -1,0 +1,24 @@
+bioconductor-biomart =2.54.0
+bioconductor-clusterprofiler =4.6.0
+bioconductor-deseq2 =1.38.0
+bioconductor-go.db =3.16.0
+bioconductor-org.hs.eg.db =3.16.0
+deeptools =3.5.1
+fastqc =0.11.9
+hisat2 =2.2.1
+multiqc =1.13
+pigz 
+r-argparse =2.1.6
+r-ashr =2.2_54
+r-cli # =3.3 # For biomart
+r-data.table =1.14.6
+r-ggbeeswarm =0.6.0
+r-ggplot2 =3.4.0
+r-ggrepel =0.9.2
+r-kernsmooth =2.23_20
+r-r.utils =2.12.2
+r-vctrs # = 0.5.1 # For biomart
+samtools =1.16.1
+snakemake =7.18.2
+subread =2.0.1
+umi_tools =1.1.2

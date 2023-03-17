@@ -1,0 +1,12 @@
+bioanalyzer_sample_number	library_id	diagnosis	outcome	patient_id	neutrophils	RIN	run_id	strand	clontech_barcode	library_type	species	fastq_r1	fastq_r2
+2	7H	CM Ret Pos	died	7	normal_density	6.9	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/7H_S6_L001_R1_001.fastq.gz	chris_moxon_project_2197/7H_S6_L001_R2_001.fastq.gz
+3	58H	CM Ret Pos	NA	58	normal_density	4.3	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/58H_S7_L001_R1_001.fastq.gz	chris_moxon_project_2197/58H_S7_L001_R2_001.fastq.gz
+4	70H	Non-CM	NA	70	normal_density	7.1	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/70H_S8_L001_R1_001.fastq.gz	chris_moxon_project_2197/70H_S8_L001_R2_001.fastq.gz
+5	80H	CM Ret Pos	NA	80	normal_density	5	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/80H_S9_L001_R1_001.fastq.gz	chris_moxon_project_2197/80H_S9_L001_R2_001.fastq.gz
+6	81H	CM Ret Pos	NA	81	normal_density	6.7	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/81H_S10_L001_R1_001.fastq.gz	chris_moxon_project_2197/81H_S10_L001_R2_001.fastq.gz
+7	86H	Non-CM	died	86	normal_density	6.5	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/86H_S11_L001_R1_001.fastq.gz	chris_moxon_project_2197/86H_S11_L001_R2_001.fastq.gz
+8	2L	CM Ret Pos	NA	2	low_density	6	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/2L_S12_L001_R1_001.fastq.gz	chris_moxon_project_2197/2L_S12_L001_R2_001.fastq.gz
+9	7L	CM Ret Pos	NA	7	low_density	5.6	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/7L_S13_L001_R1_001.fastq.gz	chris_moxon_project_2197/7L_S13_L001_R2_001.fastq.gz
+10	58L	CM Ret Pos	NA	58	low_density	7.4	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/58L_S14_L001_R1_001.fastq.gz	chris_moxon_project_2197/58L_S14_L001_R2_001.fastq.gz
+11	80L	CM Ret Pos	NA	80	low_density	7.4	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/80L_S15_L001_R1_001.fastq.gz	chris_moxon_project_2197/80L_S15_L001_R2_001.fastq.gz
+12	81L	CM Ret Pos	NA	81	low_density	5.4	1101	RF	NNNNNNNNCCCCCC	RNAseq	Homo_sapiens.GRCh38.105	chris_moxon_project_2197/81L_S16_L001_R1_001.fastq.gz	chris_moxon_project_2197/81L_S16_L001_R2_001.fastq.gz
